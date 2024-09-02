@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711155611 source:c:\c++\tasks\pr3c++2\main.cpp
+	<iostream>
+	<limits>
+	<locale>
+	<stdexcept>
+
