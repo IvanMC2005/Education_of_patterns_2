@@ -1,0 +1,1 @@
+# Education_of_patterns_2
